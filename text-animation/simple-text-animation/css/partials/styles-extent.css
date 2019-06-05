@@ -1,12 +1,28 @@
 .text1 {
-  color: white;
+  font-family: 'Permanent Marker', cursive;
+  color: #6A8D73;
   font-size: 100px;
   font-weight: 700;
   letter-spacing: 8px;
-  margin-bottom: 20px; }
+  margin-bottom: 20px;
+  background: white;
+  position: relative;
+  animation: text 3s 1; }
 
 .text2 {
+  font-family: 'Open Sans', sans-serif;
   font-size: 30px;
-  color: green; }
+  color: white; }
+
+@keyframes text {
+  0% {
+    color: white;
+    margin-bottom: -40px; }
+  30% {
+    letter-spacing: 25px;
+    margin-bottom: -40px; }
+  85% {
+    letter-spacing: 8px;
+    margin-bottom: -40px; } }
 
 /*# sourceMappingURL=styles-extent.css.map */
