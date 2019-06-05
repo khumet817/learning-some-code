@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,MAAO;EACH,KAAK,EAAE,KAAK;EACZ,SAAS,EAAE,KAAK;EAChB,WAAW,EAAE,GAAG;EAChB,cAAc,EAAE,GAAG;EACnB,aAAa,EAAE,IAAI;;AAGvB,MAAO;EACH,SAAS,EAAE,IAAI;EACf,KAAK,EAAE,KAAK",
+"sources": ["../../scss/partials/styles-extent.scss"],
+"names": [],
+"file": "styles-extent.css"
+}
